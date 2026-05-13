@@ -1,0 +1,5 @@
+const letras = ['a', 'b', 'c'];
+console.log(letras.join('-'));
+
+
+/*imprime a-b-c*/
